@@ -1,0 +1,24 @@
+.Topnav {
+  background-color: #333;
+  overflow: hidden;
+  padding: 20px;
+  margin:0 0 10px 0;
+  position: float-left;
+}
+.imgWraper {
+  background-image: url("https://www.tempe.gov/Home/ShowPublishedImage/53362/637060534580400000");
+  max-width: 100%;
+  height: auto;
+  background-attachment: fixed;
+	background-size: cover;
+	overflow: hidden;
+  height: 450px;
+  color:white;
+  font-size: 20px;
+  padding : 10px 15px;
+  z-index: -1;
+}
+
+.Footer {
+    background-color: #333;
+}

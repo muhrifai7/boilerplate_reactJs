@@ -1,0 +1,36 @@
+
+.imgWraper {
+    background-image: url("https://www.tempe.gov/Home/ShowPublishedImage/53362/637060534580400000");
+    max-width: 100%;
+    height: auto;
+    background-attachment: fixed;
+      background-size: cover;
+      overflow: hidden;
+    height: 450px;
+    color:white;
+    font-size: 20px;
+    padding : 10px 15px;
+    z-index: -1;
+  }  
+
+.parentBanner {
+    display: flex;
+    align-items : center;
+    justify-content : center;
+    text-align : center;
+    columns: row;
+}
+.Banner {
+    background-color : #1e90ff;
+    width : 55%;
+    margin :auto;
+    border-radius:10px;
+    margin : 0 20px 0 20px;
+    z-index : 100;
+    bottom: 0
+}.Banner h1 {
+    font-size : 30px;
+    font-weight : bold;
+    color : white;
+    text-decoration: underline;
+}
